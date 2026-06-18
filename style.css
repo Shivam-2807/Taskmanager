@@ -107,7 +107,7 @@ header p i {
     align-items: center;
     justify-content: center;
     background-color: #0b0b0f;
-    opacity: 0.8;
+    opacity: 0.9;
 }
 
 /* Form Card */
@@ -162,7 +162,7 @@ form button,
 
 #closebtn {
     color: #ffffff;
-    background-color: #e63946;
+    background-color: #e6e4e4;
 }
 h3.completed {
     text-decoration: line-through;
